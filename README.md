@@ -2,7 +2,8 @@
 ## Android执行Perl
 
 > Try to run perl scripts in Android Application
---
+
+----
 在执行本项目时碰到的错误：
 
 ```log
@@ -13,7 +14,7 @@
 
 ![img.png](img.png)
 
-是因为  ProcessBuilder  从Android 10 开始，就没办法执行Android私有目录下的任何文件了
+是因为  ProcessBuilder  从Android 10 开始，就没办法执行Android私有目录下的任何可执行文件了
 可以参考这个 https://stackoverflow.com/questions/60370424/permission-is-denied-using-android-q-ffmpeg-error-13-permission-denied
 
 
