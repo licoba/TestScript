@@ -20,6 +20,10 @@
 
 至于解决方案，在这里 https://stackoverflow.com/questions/60370424/permission-is-denied-using-android-q-ffmpeg-error-13-permission-denied
 
+## 结论
+
+1. 如果是没有root的手机，就没办法在App运行时，执行任何可执行二进制文件，都会提示没有权限。
+2. 真要在Android App上执行perl脚本的话，建议通过 **自定义ROM** 来实现，权限足够高，可以随意操作。
 
 ---
 【感谢】
