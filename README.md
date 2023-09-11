@@ -23,4 +23,6 @@
 
 ---
 【感谢】
-- 原项目在这里：https://github.com/castaway/run-perl  是一个十年前的项目，在Android App里面可以运行可执行的二进制文件。
+- 原项目在这里：https://github.com/castaway/run-perl  
+
+- 这是是一个十年前的项目，在Android App里面可以运行的Perl文件。
